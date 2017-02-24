@@ -1,1 +1,1 @@
-# permag-full
+permag.ir
